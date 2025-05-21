@@ -19,6 +19,8 @@ format:
       data-background-image: none
 ---
 
+# {background-color="black" background-image="img0.png" background-size="700px"}
+
 # {background-color="black" background-image="mlegp.jpg" background-size="700px"}
 
 # {background-color="black" background-image="legobest.jpg" background-size="700px"}
