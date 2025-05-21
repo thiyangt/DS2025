@@ -1,0 +1,100 @@
+---
+title: "Growing with Data: Statistics from Kindergarten to School"
+subtitle: "STA 1132 Descriptive Statistics"
+author: "Dr. Thiyanga S. Talagala <br/>  Department of Statistics, Faculty of Applied Sciences <br/> University of Sri Jayewardenepura, Sri Lanka"
+format:
+  revealjs:
+    css:
+        - "custom.css"
+    width: 1600
+    height: 900
+    margin: 0.1
+    theme: simple
+    transition: slide
+    background-transition: fade
+    slide-number: true
+    show-slide-number: all
+    title-slide-attributes: 
+      data-background-color: "#081d58"
+      data-background-image: none
+---
+
+
+
+# My current work
+
+ [Machine Learning to Kingdom Learning](https://thiyangt.github.io/ML2KL/)
+ 
+# {background-color="black" background-image="img1.jpg" background-size="700px"}
+
+# {background-color="black" background-image="img2.png" background-size="500px"}
+
+# {background-color="black" background-image="img3.png" background-size="500px"}
+
+# The word "[statistics]{style="color:red;"}" has multiple meanings depending on the context. 
+
+## 1. Statistics as a field of study (discipline)
+
+- [Definition:]{style="color:red;"} A branch of mathematics dealing with data collection, analysis, interpretation, presentation, and organization.
+
+- [Example:]{style="color:red;"} 
+
+  She is studying statistics at the university.
+  
+## 2. Statistics as summary measures/ Statistics as numerical data
+
+[Definition:]{style="color:red;"} Quantitative data or information represented in numbers.
+
+[Example:]{style="color:red;"}
+
+  - The latest employment statistics show a rise in job openings.
+  
+  - The mean and standard deviation are important statistics in this report.
+
+## {background-color="black" background-image="img4.png" background-size="700px"}
+
+## Kindergarten  
+
+**Favorite Color Chart:** Each child puts a sticker under their favorite color; the class sees which color is most popular.
+
+**Weather Chart:** Record sunny, rainy, and cloudy days on a calendar using smiley faces or symbols.
+
+**Toy Sorting:** Group toys by shape, color, or size, and count how many are in each group.
+
+## Primary School 
+**Class Survey:** "What’s your favorite fruit?" — collect responses and draw a bar chart.
+
+**Concept of mean:** A pack of toffees is shared equally among a group of children. 
+
+**Tally Chart of Pets:** Count how many students have each type of pet and display using tally marks.
+
+## O/L (Grade 6 - Grade 11)
+
+- Who scored the highest? 
+
+- Who scored the lowest? 
+
+- What is the class mean? 
+
+- What mark did most students obtain?
+
+- Rank the students based on their mathematics marks from highest to lowest.
+
+## How long does it take each student to come to the university from their current residence?
+
+In-class discussion
+
+## Advanced Level
+
+- Measures of central tendancy
+
+- Measures of dispersion
+
+- Measures of skewness
+
+- Measures of correlation
+
+
+
+## {background-color="black" background-image="img5.png" background-size="700px"}
+
