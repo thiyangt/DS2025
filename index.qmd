@@ -84,6 +84,10 @@ format:
 
 - Rank the students based on their mathematics marks from highest to lowest.
 
+- How far are your marks from the average compared to your classmates? 
+
+- Are most students close to the average or spread out?
+
 ## How long does it take each student to come to the university from their current residence?
 
 In-class discussion
