@@ -7,7 +7,7 @@ format:
     css:
         - "custom.css"
     width: 1600
-    height: 900
+    height: 1000
     margin: 0.1
     theme: simple
     transition: slide
